@@ -48,4 +48,4 @@ async def on_message(message):
   if any(word in msg for word in curse):
     await message.channel.send("""Shut up i'll hack your moms IP and ddos your balls, then i'm gonna put you on r/masterhacker you piece of shit skid. Get a life.""")
 
-client.run('ODI3MjQ0NTkyNTc1MTUyMTgw.YGYNkA.NReWCZk3PogxF9YrCgaa_hdzEJY')
+client.run(TOKEN)
