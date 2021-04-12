@@ -1,3 +1,3 @@
-# Bot has basic funcionality that you can build on top of
+# No functionality just an exmple.
 
 This is not a complete project.
