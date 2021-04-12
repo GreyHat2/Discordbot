@@ -1,3 +1,3 @@
-# Discordbot
+# Bot has basic funcionality that you can build on top of
 
-MY bot currently running on a phone somewhere in my house
+This is not a complete project.
